@@ -40,4 +40,4 @@ This is a simple e-shop application built with React and Vite. It allows users t
     # or if you're using Yarn:
     yarn dev
     ```
-The app should now be running on http://localhost:3000.
+The app should now be running on http://localhost:5173.
